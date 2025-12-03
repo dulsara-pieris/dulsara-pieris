@@ -3,26 +3,26 @@
 
 <!-- Skill Icons -->
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=py,arduino,blender,canva,css,html,godot,git,gimp,js,mongodb,linux,npm,nodejs,vscode,vim" height="40" />
+  <img src="https://skillicons.dev/icons?i=py,arduino,blender,canva,css,html,godot,git,gimp,js,mongodb,linux,npm,nodejs,vscode,vim" height="55" />
 </div>
 
 <br>
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dulsara-pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" />
-  <img src="https://github-profile-trophy.vercel.app/?username=dulsara-pieris&theme=dracula&row=1&column=-1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="140" />
+  <img src="https://streak-stats.demolab.com?user=dulsara-pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dulsara-pieris&theme=dracula&row=1&column=-1&margin-w=15&margin-h=15&no-bg=false&no-frame=false" height="165" />
 </div>
 
 <br>
 
 <!-- Fun Stuff -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="120" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="90" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="120" />
 </div>
 
 <br>
@@ -37,5 +37,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulsara-pieris&color=ff6427&style=flat-square&label=PROFILE+VIEWS" height="25" />
+  <img src="https://komarev.com/ghpvc/?username=dulsara-pieris&color=ff6427&style=flat-square&label=PROFILE+VIEWS" height="30" />
 </div>
