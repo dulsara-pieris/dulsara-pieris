@@ -48,17 +48,13 @@
 
 ###
 
-<img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
-<img src="https://quotes-github-readme.vercel.app/api?theme=dark"/>
+<img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" / text-algin="center">
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark"/ text-algin="center">
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" text-algin="center" />
   <br><br>
   <b>“Microsoft isn’t evil, they just make really crappy operating systems.”</b><br>
   <i>— Linus Torvalds 🐧</i>
-</p>
-
-<p align="center">
-  <img src="https://skyline.github.com/dulsara-pieris/2025" width="100%" />
 </p>
 
 <p align="center">
