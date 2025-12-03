@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="120" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" />
 </div>
 
 <br>
