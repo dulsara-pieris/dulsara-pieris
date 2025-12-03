@@ -48,4 +48,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dulsara-pieris/dulsara-pieris/output/snake.svg" alt="Snake animation" />
+<img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
