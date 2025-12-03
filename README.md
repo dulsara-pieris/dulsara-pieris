@@ -49,3 +49,4 @@
 ###
 
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+<img src="https://quotes-github-readme.vercel.app/api?theme=dark"/>
