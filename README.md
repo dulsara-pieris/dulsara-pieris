@@ -50,3 +50,4 @@
 
 <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
 <img src="https://quotes-github-readme.vercel.app/api?theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&layout=donut&theme=react&hide_border=true"/>
