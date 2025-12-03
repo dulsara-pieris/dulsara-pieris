@@ -3,7 +3,7 @@
 
 <!-- Skill Icons -->
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=py,arduino,blender,canva,css,html,godot,git,gimp,js,mongodb,linux,npm,nodejs,vscode,vim" height="150" />
+  <img src="https://skillicons.dev/icons?i=py,arduino,blender,canva,css,html,godot,git,gimp,js,mongodb,linux,npm,nodejs,vscode,vim" height="200" />
 </div>
 
 <br>
