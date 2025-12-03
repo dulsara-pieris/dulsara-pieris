@@ -42,20 +42,10 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dulsara-Pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dulsara-pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Dulsara-Pieris&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/dulsara-pieris/dulsara-pieris/output/snake.svg" alt="Snake animation" />
