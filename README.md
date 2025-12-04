@@ -36,6 +36,12 @@
   <i>Linux user since I discovered Windows puts bills near my gate 💸</i>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulsara-pieris&color=ff6427&style=flat-square&label=PROFILE+VIEWS" height="30" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/snake.svg" alt="Snake animation" />
