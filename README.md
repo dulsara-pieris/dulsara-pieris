@@ -9,7 +9,7 @@ ________        .__                                  .__       .__  __
         \/                \/      \/           \/            \/          
 </pre>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&color=00ff00&center=true&vCenter=true&width=600&lines=MEMBER SYNAPSNEX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&color=00ff00&center=true&vCenter=true&width=600&lines=FROM+SYNAPSNEX" />
 </p>
 
  <div align="center">
