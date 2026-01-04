@@ -7,6 +7,7 @@ ________        .__                                  .__       .__  __
  |    `   \  |  /  |__\___ \  / __ \|  | \// __ \_   |  |   |  \  ||  |  
 /_______  /____/|____/____  >(____  /__|  (____  /   |__|___|  /__||__|  
         \/                \/      \/           \/            \/          
+</pre>
 
  <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
@@ -49,5 +50,3 @@ ________        .__                                  .__       .__  __
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="funny joke (may not load sometimes)" />
 </div>
-</pre>
-
