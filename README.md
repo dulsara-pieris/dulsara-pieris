@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
-<h3 align="center">14-year-old Full-Stack Dev • Linux Enthusiast • Future Arch User 🐧</h3>
+<h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
