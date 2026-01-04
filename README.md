@@ -9,9 +9,8 @@ ________        .__                                  .__       .__  __
         \/                \/      \/           \/            \/          
 </pre>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=CourCourier New+New&size=40&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=I'm+Dulsara+Pieris" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&color=00ff00&center=true&vCenter=true&width=600&lines=14-year-old+Front-end+Dev+•+Linux+Enthusiast+•+Arch+User" />
 </p>
-
 
  <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
