@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
 <h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -36,29 +37,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
-
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dulsara-Pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Dulsara-Pieris&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="./assets/streak-stats.svg" height="150" alt="streak graph" />
+  <img src="./assets/github-trophies.svg" height="150" alt="trophy graph" />
 </div>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-light.svg">
+  <img src="./assets/pacman-light.svg" alt="pacman contribution graph">
 </picture>
 
-###
+<br>
+
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" />
+  <img src="./assets/readme-jokes.svg" height="150" alt="funny joke" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" />
+  <img src="./assets/quotes.svg" height="150" alt="quote of the day" />
 </div>
 
 <br>
@@ -71,5 +72,3 @@
 <p align="center">
   <i>Linux user since I discovered Windows puts bills near my gate 💸</i>
 </p>
-
-###
