@@ -9,7 +9,7 @@ ________        .__                                  .__       .__  __
         \/                \/      \/           \/            \/          
 </pre>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Dulsara+Pieris" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=CourCourier New+New&size=40&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=I'm+Dulsara+Pieris" />
 </p>
 
 
