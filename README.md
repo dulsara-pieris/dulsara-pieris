@@ -1,6 +1,11 @@
 <h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
 <h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
-
+<h1>________        .__                                       </h1>
+<h1>\______ \  __ __|  |   ___________ ____________        </h1>
+<h1> |    |  \|  |  \  |  /  ___/\__  \\_  __ \__  \        </h1>
+<h1> |    `   \  |  /  |__\___ \  / __ \|  | \// __ \_      </h1>
+<h1>/_______  /____/|____/____  >(____  /__|  (____  /     </h1>
+<h1>        \/                \/      \/           \/     </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
   <img width="12" />
@@ -40,35 +45,5 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dulsara-Pieris&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph (may not load sometimes)" />
-  <img src="https://github-profile-trophy.vercel.app?username=Dulsara-Pieris&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="github trophies (may not load sometimes)" />
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Dulsara-Pieris/Dulsara-Pieris/output/pacman-contribution-graph.svg" alt="pacman contribution graph (may not load sometimes)">
-</picture>
-
-<br>
-
-<div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="funny joke (may not load sometimes)" />
 </div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="150" alt="quote of the day (may not load sometimes)" />
-</div>
-
-<br>
-
-<p align="center">
-  <b>“Microsoft isn’t evil, they just make really crappy operating systems.”</b><br>
-  <i>— Linus Torvalds 🐧</i>
-</p>
-
-<p align="center">
-  <i>Linux user since I discovered Windows puts bills near my gate 💸</i>
-</p>
