@@ -8,6 +8,10 @@ ________        .__                                  .__       .__  __
 /_______  /____/|____/____  >(____  /__|  (____  /   |__|___|  /__||__|  
         \/                \/      \/           \/            \/          
 </pre>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=ff69b4&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Dulsara+Pieris" />
+</p>
+
 
  <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
