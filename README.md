@@ -2,15 +2,25 @@
 <h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
 
 <!-- ASCII Banner in Courier -->
-<pre align="center" style="font-family: 'Courier New', Courier, monospace;">
-________        .__                                  .__       .__  __   
-\______ \  __ __|  |   ___________ ____________      |__| ____ |__|/  |_ 
- |    |  \|  |  \  |  /  ___/\__  \\_  __ \__  \     |  |/    \|  \   __\
- |    `   \  |  /  |__\___ \  / __ \|  | \// __ \_   |  |   |  \  ||  |  
-/_______  /____/|____/____  >(____  /__|  (____  /   |__|___|  /__||__|  
-        \/                \/      \/           \/            \/          
-</pre>
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dulsara-pieris&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dulsara-pieris&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Dulsara_piers) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Animated SVG subtitle in Courier font -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=2000&color=00ff00&center=true&vCenter=true&width=600&lines=FROM+SYNAPSNEX" />
@@ -44,6 +54,7 @@ ________        .__                                  .__       .__  __
   <img src="https://github-readme-stats.vercel.app/api?username=dulsara-pieris&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&layout=compact&theme=dracula" alt="Top Languages" width="450"/>
 </div>
+
 
 ---
 
