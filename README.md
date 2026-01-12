@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
 <h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
-<div algin="center">
+<p algin="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+</p>
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Dulsara_piers) 
 
