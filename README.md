@@ -32,12 +32,11 @@
 <p align="center">
   <i>
     "Why Developers have overgrown grass in their garden because they don't have root access<br>
-    Because <code>Oct 31 == Dec 25</code>!"
   </i>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ Powered by <b>SYNAPSNEX</b> • Built on <b>Linux</b> • Open Source Forever
+  ⚡  <b>SYNAPSNEX</b> • Built on <b>Linux</b> • Open Source Forever
 </p>
