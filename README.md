@@ -17,10 +17,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&layout=compact&theme=synthwave&hide_border=false" height="150"/>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
