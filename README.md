@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&show_icons=true&hide_border=false" height="165"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false" height="165"/>
 </p>
 
 ---
