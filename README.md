@@ -1,21 +1,11 @@
 <h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
 <h3 align="center">14-year-old Front-end Dev • Linux Enthusiast • Arch User 🐧</h3>
-
-<!-- ASCII Banner in Courier -->
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+<div algin="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dulsara-pieris&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dulsara-pieris&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+</div>
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Dulsara_piers) 
 
