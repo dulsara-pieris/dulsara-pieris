@@ -5,7 +5,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&duration=2000&color=00ff00&center=true&vCenter=true&width=600&lines=FROM+SYNAPSNEX;BUILDING+IN+OPEN+SOURCE;LINUX+OVER+EVERYTHING" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
 </p>
 
 ---
