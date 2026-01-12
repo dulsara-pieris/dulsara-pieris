@@ -9,15 +9,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulsara-pieris&theme=synthwave&show_icons=true&hide_border=false" height="165"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -40,7 +31,7 @@
 
 <p align="center">
   <i>
-    "Why do programmers always mix up Christmas and Halloween?<br>
+    "Why Developers have overgrown grass in their garden because they don't have root access<br>
     Because <code>Oct 31 == Dec 25</code>!"
   </i>
 </p>
