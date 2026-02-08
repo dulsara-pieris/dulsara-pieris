@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,npm,git,linux,vim,python,arduino,godot,gimp,unix" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,linux,vim,python,arduino,godot,gimp,unix" />
 </div>
 
 ---
