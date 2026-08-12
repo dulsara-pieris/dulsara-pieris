@@ -19,13 +19,23 @@
 ## `~/stack`
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,python,godot,git,github,linux,bash,blender,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,,python,godot,git,github,linux,bash,arduino" />
 </p>
+
 
 ## `~/projects`
 
-🎮 **[FUROR](https://dulsara-pieris.itch.io/furor)**
+### 🔧 Personal
+🐧 **[tuxctl](https://github.com/SYNAPSEX-official/package_scripts)**  
+A Linux CLI tool for managing and fetching package scripts directly from GitHub.
+
+🌐 **Web Projects**  
+Websites, APIs and various full-stack experiments.
+
+### 🏆 Competitive
+🎮 **[FUROR](https://dulsara-pieris.itch.io/furor)**  
 2D action platformer built with Godot for the LevelStair Level Zero Game Jam.
+
 
 🌐 **Web Development**
 Websites, APIs and full-stack experiments.
