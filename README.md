@@ -1,42 +1,60 @@
-<h1 align="center">Hey 👋 What's Up? I'm Dulsara Pieris</h1>
+# `> dulsara@arch:~$`
 
-<h3 align="center">
-  14-year-old Front-end Developer • Linux Enthusiast • Arch User 🐧
-</h3>
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   DULSARA PIERIS                             │
+│   student developer from sri lanka           │
+│                                              │
+│   [ OK ] Web Development                     │
+│   [ OK ] Linux / Arch                        │
+│   [ OK ] Game Development                    │
+│   [ OK ] Programming                         │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dulsara-pieris&theme=synthwave&hide_border=false" />
+> Building things, breaking things, and figuring out why they broke. 🐧
+
+## `~/stack`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,python,godot,git,github,linux,bash,blender,arduino" />
 </p>
 
----
-## 🛠️ Tech Stack & Tools
+## `~/projects`
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,linux,vim,python,arduino,godot,gimp,unix" />
-</div>
+🎮 **[FUROR](https://dulsara-pieris.itch.io/furor)**
+2D action platformer built with Godot for the LevelStair Level Zero Game Jam.
 
----
+🌐 **Web Development**
+Websites, APIs and full-stack experiments.
 
-## 💰 Support My Work
+🐧 **Linux**
+Arch Linux, Hyprland, shell scripts and random system experiments.
 
-<p align="center">
-  <a href="https://patreon.com/Dulsara_piers">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 Fun Dev Joke
+## `~/github`
 
 <p align="center">
-  <i>
-    "Why Developers have overgrown grass in their garden because they don't have root access<br>
-  </i>
+<img src="https://github-readme-stats.vercel.app/api?username=dulsara-pieris&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000" />
 </p>
 
----
+## `~/connect`
 
 <p align="center">
-  ⚡  <b>SYNAPSNEX</b> • Built on <b>Linux</b> • Open Source Forever
+<a href="https://github.com/dulsara-pieris">
+<img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+<a href="https://dulsara-pieris.itch.io/">
+<img src="https://img.shields.io/badge/itch.io-00ff41?style=for-the-badge&logo=itchdotio&logoColor=black"/>
+</a>
+<a href="https://www.instagram.com/dulsara_pieris/">
+<img src="https://img.shields.io/badge/Instagram-00ff41?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>
 </p>
+
+```text
+$ echo "build > talk"
+
+└── currently building something...
+```
